@@ -119,7 +119,7 @@ export default function Proyectos() {
                 <span className="bg-blue-950 px-1 lg:px-3 py-1 rounded-lg text-blue-200 font-medium">MongoDB</span>
               </div>
               <a
-                href="https://cesarsa-devtree.netlify.app/"
+                href="https://github.com/CesarAlar/deploy_devtree_backend/tree/main/src"
                 className="text-green-300 font-semibold hover:underline"
                 target="_blank"
                 rel="noopener noreferrer"
