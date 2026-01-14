@@ -2,7 +2,7 @@ import Contacto from "./components/Contacto";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import Proyectos from "./components/Proyectos";
-import SobreMi from "./components/sobreMi";
+import SobreMi from "./components/SobreMi";
 import Tecnoligias from "./components/Tecnoligias";
 
 export default function App() {
