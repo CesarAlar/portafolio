@@ -28,7 +28,7 @@ export default function Proyectos() {
               </div>
               <div className="flex gap-4 mt-4">
                 <a
-                  href="https://inea-web-frontend.vercel.app/"
+                  href="http://cdmx.inea.gob.mx/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-blue-400 font-semibold hover:underline"
